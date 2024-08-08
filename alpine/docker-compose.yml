@@ -1,0 +1,4 @@
+services:
+  alpine:
+    image: evertonagilar/alpine:1.0.0
+    build: .

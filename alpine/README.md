@@ -1,0 +1,2 @@
+# Repositório para imagens utilitárias
+
